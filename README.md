@@ -2,3 +2,5 @@
 # `This just the practice of basic python programs` 
 
 <!-- https://www.python.org/static/community_logos/python-logo-master-v3-TM.png -->
+
+![Visitor Count](https://profile-counter.glitch.me/TheProGhost/count.svg)
